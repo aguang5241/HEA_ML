@@ -11,7 +11,7 @@ The knowledge of HEA over a full composition range can be obtained from well-tra
 
 ## Get Started
 ### Download
-Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version of software (both for Windows/MacOS). 
+Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version of software (Windows). 
 * Note: The demo version of software is only for demonstration purpose. It is not intended for commercial use. For full version of software, please contact us (gliu4@wpi.edu; yzhong@wpi.edu).
 
 ### Usage Description
