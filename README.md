@@ -1,5 +1,7 @@
-# HEA_ML
-The first-principles calculation is widely used in HEA, however, it is not computational friendly for large/complex systems. In this work, the Al-Co-Cr-Fe-Ni system (both FCC and BCC) is selected for our investigation. We formulate a materials design strategy that combines first-principles calculation results and machine learning models to establish a robust database of properties (e.g., phase stabilities and elastic constants). Moreover, we developed the corresponding desktop software to facilitate the use of related persons or institutions. 
+# High-Entropy Materials Design by Integrating the First-Principles Calculations and Machine Learning: a Case Study in the Al-Co-Cr-Fe-Ni System
+
+## Overview
+The first-principles calculation is widely used in HEA, however, it is not computational friendly for large/complex systems. In this work, the Al-Co-Cr-Fe-Ni system (both FCC and BCC) is selected for our investigation. We formulate a materials design strategy that combines first-principles calculation results and machine learning models to establish a robust database of properties (e.g., phase stabilities and elastic constants). Moreover, we developed the corresponding desktop software to facilitate the use of related persons or institutions.
 
 ## Workflow
 * Above the iceberg:  
@@ -8,6 +10,16 @@ The training data of properties (e.g., phase stabilities and mechanical properti
 The knowledge of HEA over a full composition range can be obtained from well-trained model, and the corresponding software is developed with the knowledge embedded.
 
 ![alt demo0_graphical_abstract](res/demo0_graphical_abstract.png)
+
+## Main Results
+### Modeling
+![alt Modeling](res/Modeling.png)
+
+### Prediction
+![alt Prediction](res/Prediction.png)
+
+### Screening
+![alt Screening](res/Screening.png)
 
 ## Get Started
 ### Download
