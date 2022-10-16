@@ -41,3 +41,8 @@ Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version
 
 ![alt demo3_advanced](res/demo3_advanced.png)
 <!-- <img src="res/demo3_advanced.png" width = "300" height = "200" alt="demo3_advanced" align=center /> -->
+
+## References
+1. G. Liu, S. Yang, Y. Zhong. High-entropy materials design by integrating the first-principles calculations and machine learning: a case study in the Al-Co-Cr-Fe-Ni system. In preparation. (2022)
+2. S. Yang, Y. Zhong, Ab Initio Modeling of fcc Fe-Co-Cr-Ni High Entropy Alloys with Full Composition Range, Journal of Phase Equilibria and Diffusion 42(5) (2021) 656-672.
+3. S. Yang, G. Liu, Y. Zhong, Revisit the VEC criterion in high entropy alloys (HEAs) with high-throughput ab initio calculations: A case study with Al-Co-Cr-Fe-Ni system, Journal of Alloys and Compounds  (2022) 165477.
