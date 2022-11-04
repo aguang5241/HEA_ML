@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDisplayName</key>
+	<string>HEA_ML_Demo</string>
+	<key>CFBundleExecutable</key>
+	<string>HEA_ML_Demo</string>
+	<key>CFBundleIconFile</key>
+	<string>generated-944280ae61071ee2bf6bb8c5c1fd1f566a862840dea6fd7ceddaf9c2bfc6709a.icns</string>
+	<key>CFBundleIdentifier</key>
+	<string>HEA_ML_Demo</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleName</key>
+	<string>HEA_ML_Demo</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleShortVersionString</key>
+	<string>0.0.0</string>
+	<key>NSHighResolutionCapable</key>
+	<true/>
+</dict>
+</plist>
