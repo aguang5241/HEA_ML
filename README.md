@@ -1,7 +1,7 @@
 # High-Entropy Materials Design by Integrating the First-Principles Calculations and Machine Learning: a Case Study in the Al-Co-Cr-Fe-Ni System
 
 ## Overview
-The first-principles calculation is widely used in HEA, however, it is not computational friendly for large/complex systems. In this work, the Al-Co-Cr-Fe-Ni system (both FCC and BCC) is selected for our investigation. We formulate a materials design strategy that combines first-principles calculation results and machine learning models to establish a robust database of properties (e.g., phase stabilities and elastic constants). Moreover, we developed the corresponding desktop software to facilitate the use of related persons or institutions.
+The first-principles calculation is widely used in high-entropy materials. However, this approach may consume many computational resources for complex systems, limiting the construction of property maps for the corresponding materials over a full composition range. In this work, the most common Al-Co-Cr-Fe-Ni system (both FCC and BCC) is selected for our investigation. We formulate a materials design strategy that combines first-principles calculation results and machine learning models to establish a robust database of properties (e.g., phase stabilities and elastic constants): starting from unary, binary, ternary, and quaternary, then extending into high-order systems. Analyzing and screening this database can further inspire discovering and designing new high entropy materials. Moreover, the corresponding software was developed to facilitate the use of related persons or institutions. 
 
 ## Workflow
 * Above the iceberg:  
@@ -13,13 +13,21 @@ The knowledge of HEA over a full composition range can be obtained from well-tra
 
 ## Main Results
 ### Modeling
-![alt Modeling](res/Modeling.png)
+![alt Modeling](res/Fig.1_Modeling.jpg)
+
+### Training
+![alt Training](res/Fig.2_Training.jpg)
 
 ### Prediction
-![alt Prediction](res/Prediction.png)
+![alt Prediction](res/Fig.3_Binary.jpg)
+
+![alt Prediction](res/Fig.4_VEC.jpg)
+
+### Analysis
+![alt Analysis](res/Fig.5_Analysis.jpg)
 
 ### Screening
-![alt Screening](res/Screening.png)
+![alt Screening](res/Fig.6_Screening.jpg)
 
 ## Get Started
 ### Download
@@ -34,12 +42,12 @@ Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version
 
 2. On the *Single-Point* page, you can calculate the predicted properties based on the exact given concentration.
 
-![alt demo2_single_point](res/demo2_single_point.png)
+![alt demo2_single_point](res/single.gif)
 <!-- <img src="res/demo2_single_point.png" width = "300" height = "200" alt="demo2_single_point" align=center /> -->
 
 3. On the *Advanced* page, you can calculate and analyze the predicted properties based on certain given conditions.
 
-![alt demo3_advanced](res/demo3_advanced.png)
+![alt demo3_advanced](res/advanced.gif)
 <!-- <img src="res/demo3_advanced.png" width = "300" height = "200" alt="demo3_advanced" align=center /> -->
 
 ## References
