@@ -9,7 +9,7 @@ The training data of properties (e.g., phase stabilities and mechanical properti
 * Below the iceberg:  
 The knowledge of HEA over a full composition range can be obtained from well-trained model, and the corresponding software is developed with the knowledge embedded.
 
-<div style='text-align: center'><img src='./res/demo0_graphical_abstract.png' alt='' width='600'/></div>
+<div style='text-align: right'><img src='./res/demo0_graphical_abstract.png' alt='' width='600'/></div>
 
 ## Main Results
 ### Modeling
