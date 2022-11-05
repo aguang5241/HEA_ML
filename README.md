@@ -56,7 +56,7 @@ The knowledge of HEA over a full composition range can be obtained from well-tra
     <div align=left><img src='./res/Fig.3_Binary.jpg' alt='' width='700'/></div>
 
 * The VEC is defined as follows: \
-$VEC=\sum_ {i=1}^ {n}C_ {i}(VEC)_ {i}$, \
+$VEC=\sum _ {i=1}^ {n}C_ {i}(VEC)_ {i}$, \
 where $C_ {i}$ and $(VEC)_ {i}$ stand for the atomic fraction and VEC value of element $i$, respectively. The corresponding VEC values of each element are listed in the table below.
     | Element | VEC |
     | :--- | :--- |
