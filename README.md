@@ -70,7 +70,7 @@ where $C_ {i}$ and $(VEC)_ {i}$ stand for the atomic fraction and VEC value of e
     <div align=left><img src='./res/Fig.4_VEC.jpg' alt='' width='700'/></div>
 
 ### Analysis & Screening
-* Analysis with an emphasis on bulk modulus ($B$), shear modulus ($G$), and Pugh’s ratio ($k$) with an elemental concentration of each range from 5 to 35 at. %: Univariate and bivariate distribution plots for the (a) FCC and (b) BCC. Mechanical properties vs. phase stabilities plots of the (c) FCC and (d) BCC
+* Analysis with an emphasis on bulk modulus (*B*), shear modulus (*G*), and Pugh’s ratio (*k*) with an elemental concentration of each range from 5 to 35 at. %: Univariate and bivariate distribution plots for the (a) FCC and (b) BCC. Mechanical properties vs. phase stabilities plots of the (c) FCC and (d) BCC
 
     <div align=left><img src='./res/Fig.5_Analysis.jpg' alt='' width='700'/></div>
 
