@@ -9,25 +9,25 @@ The training data of properties (e.g., phase stabilities and mechanical properti
 * Below the iceberg:  
 The knowledge of HEA over a full composition range can be obtained from well-trained model, and the corresponding software is developed with the knowledge embedded.
 
-![alt demo0_graphical_abstract](res/demo0_graphical_abstract.png)
+<img src='./res/demo0_graphical_abstract.png' alt='' width='600'/>
 
 ## Main Results
 ### Modeling
-![alt Modeling](res/Fig.1_Modeling.jpg)
+<img src='./res/Fig.1_Modeling.jpg' alt='' width='600'/>
 
 ### Training
-![alt Training](res/Fig.2_Training.jpg)
+<img src='./res/Fig.2_Training.jpg' alt='' width='600'/>
 
 ### Prediction
-![alt Prediction](res/Fig.3_Binary.jpg)
+<img src='./res/Fig.3_Binary.jpg' alt='' width='600'/>
 
-![alt Prediction](res/Fig.4_VEC.jpg)
+<img src='./res/Fig.4_VEC.jpg' alt='' width='600'/>
 
 ### Analysis
-![alt Analysis](res/Fig.5_Analysis.jpg)
+<img src='./res/Fig.5_Analysis.jpg' alt='' width='600'/>
 
 ### Screening
-![alt Screening](res/Fig.6_Screening.jpg)
+<img src='./res/Fig.6_Screening.jpg' alt='' width='600'/>
 
 ## Get Started
 ### Download
@@ -37,18 +37,15 @@ Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version
 ### Usage Description
 1. On the *Entrance* page, two search modes are available: *Single-Point* and *Advanced*. Press the *START* button to start the search.
 
-![alt demo1_entrance](res/demo1_entrance.png)
-<!-- <img src="res/demo1_entrance.png" width = "300" height = "200" alt="demo1_entrance" align=center /> -->
+<img src='./res/demo1_entrance.png' alt='' width='600'/>
 
 2. On the *Single-Point* page, you can calculate the predicted properties based on the exact given concentration.
 
-![alt demo2_single_point](res/single.gif)
-<!-- <img src="res/demo2_single_point.png" width = "300" height = "200" alt="demo2_single_point" align=center /> -->
+<img src='./res/single.gif' alt='' width='600'/>
 
 3. On the *Advanced* page, you can calculate and analyze the predicted properties based on certain given conditions.
 
-![alt demo3_advanced](res/advanced.gif)
-<!-- <img src="res/demo3_advanced.png" width = "300" height = "200" alt="demo3_advanced" align=center /> -->
+<img src='./res/advanced.gif' alt='' width='600'/>
 
 ## References
 1. G. Liu, S. Yang, Y. Zhong. High-entropy materials design by integrating the first-principles calculations and machine learning: a case study in the Al-Co-Cr-Fe-Ni system. In preparation. (2022)
