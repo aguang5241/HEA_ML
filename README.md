@@ -13,7 +13,22 @@ The knowledge of HEA over a full composition range can be obtained from well-tra
 
 ## Main Results
 ### Modeling
+* This work uses the latest hyperparameter optimization framework, OPTUNA, to perform automated algorithm-driven ML model tuning. The detailed search space of the hyperparameters involved is listed in the table below.
+
+| Objectives | Search space |
+| :--- | :--- |
+| Trials number | 0 ~ 500 |
+| Number of layers | 2 ~ 6 |
+| Number of nodes | 100 ~ 300 |
+| Learning rate | 0.0001 ~ 0.01 |
+| Weight decay | 0.00001 ~ 0.001 |
+| Optimizer | Adam, SGD, RMSprop |
+
+* Results of algorithm-driven modeling: (a) optimization history; (b) importance plot for difference hyperparameters; and (c) detailed optimization results based on specific hyperparameters.
+
 <div align=center><img src='./res/Fig.1_Modeling.jpg' alt='' width='800'/></div>
+
+
 
 ### Training
 <div align=center><img src='./res/Fig.2_Training.jpg' alt='' width='800'/></div>
