@@ -9,25 +9,25 @@ The training data of properties (e.g., phase stabilities and mechanical properti
 * Below the iceberg:  
 The knowledge of HEA over a full composition range can be obtained from well-trained model, and the corresponding software is developed with the knowledge embedded.
 
-<div align=center><img src='./res/demo0_graphical_abstract.png' alt='' width='600'/></div>
+<div align=center><img src='./res/demo0_graphical_abstract.png' alt='' width='800'/></div>
 
 ## Main Results
 ### Modeling
-<div align=center><img src='./res/Fig.1_Modeling.jpg' alt='' width='600'/></div>
+<div align=center><img src='./res/Fig.1_Modeling.jpg' alt='' width='800'/></div>
 
 ### Training
-<div align=center><img src='./res/Fig.2_Training.jpg' alt='' width='600'/></div>
+<div align=center><img src='./res/Fig.2_Training.jpg' alt='' width='800'/></div>
 
 ### Prediction
-<div align=center><img src='./res/Fig.3_Binary.jpg' alt='' width='600'/></div>
+<div align=center><img src='./res/Fig.3_Binary.jpg' alt='' width='800'/></div>
 
-<div align=center><img src='./res/Fig.4_VEC.jpg' alt='' width='600'/></div>
+<div align=center><img src='./res/Fig.4_VEC.jpg' alt='' width='800'/></div>
 
 ### Analysis
-<div align=center><img src='./res/Fig.5_Analysis.jpg' alt='' width='600'/></div>
+<div align=center><img src='./res/Fig.5_Analysis.jpg' alt='' width='800'/></div>
 
 ### Screening
-<div align=center><img src='./res/Fig.6_Screening.jpg' alt='' width='600'/></div>
+<div align=center><img src='./res/Fig.6_Screening.jpg' alt='' width='800'/></div>
 
 ## Get Started
 ### Download
@@ -37,15 +37,15 @@ Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version
 ### Usage Description
 1. On the *Entrance* page, two search modes are available: *Single-Point* and *Advanced*. Press the *START* button to start the search.
 
-<div align=center><img src='./res/demo1_entrance.png' alt='' width='600'/></div>
+<div align=center><img src='./res/demo1_entrance.png' alt='' width='800'/></div>
 
 2. On the *Single-Point* page, you can calculate the predicted properties based on the exact given concentration.
 
-<div align=center><img src='./res/single.gif' alt='' width='600'/></div>
+<div align=center><img src='./res/single.gif' alt='' width='800'/></div>
 
 3. On the *Advanced* page, you can calculate and analyze the predicted properties based on certain given conditions.
 
-<div align=center><img src='./res/advanced.gif' alt='' width='600'/></div>
+<div align=center><img src='./res/advanced.gif' alt='' width='800'/></div>
 
 ## References
 1. G. Liu, S. Yang, Y. Zhong. High-entropy materials design by integrating the first-principles calculations and machine learning: a case study in the Al-Co-Cr-Fe-Ni system. In preparation. (2022)
