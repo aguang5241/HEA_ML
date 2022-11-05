@@ -9,7 +9,7 @@ The training data of properties (e.g., phase stabilities and mechanical properti
 * Below the iceberg:  
 The knowledge of HEA over a full composition range can be obtained from well-trained model, and the corresponding software is developed with the knowledge embedded.
 
-<div align=center><img src='./res/demo0_graphical_abstract.png' alt='' width='800'/></div>
+<div align=center><img src='./res/demo0_graphical_abstract.png' alt='' width='700'/></div>
 
 ## Main Results
 ### Modeling
@@ -26,23 +26,23 @@ The knowledge of HEA over a full composition range can be obtained from well-tra
 
 * Results of algorithm-driven modeling: (a) optimization history; (b) importance plot for difference hyperparameters; and (c) detailed optimization results based on specific hyperparameters.
 
-<div align=center><img src='./res/Fig.1_Modeling.jpg' alt='' width='800'/></div>
+<div align=center><img src='./res/Fig.1_Modeling.jpg' alt='' width='700'/></div>
 
 
 
 ### Training
-<div align=center><img src='./res/Fig.2_Training.jpg' alt='' width='800'/></div>
+<div align=center><img src='./res/Fig.2_Training.jpg' alt='' width='700'/></div>
 
 ### Prediction
-<div align=center><img src='./res/Fig.3_Binary.jpg' alt='' width='800'/></div>
+<div align=center><img src='./res/Fig.3_Binary.jpg' alt='' width='700'/></div>
 
-<div align=center><img src='./res/Fig.4_VEC.jpg' alt='' width='800'/></div>
+<div align=center><img src='./res/Fig.4_VEC.jpg' alt='' width='700'/></div>
 
 ### Analysis
-<div align=center><img src='./res/Fig.5_Analysis.jpg' alt='' width='800'/></div>
+<div align=center><img src='./res/Fig.5_Analysis.jpg' alt='' width='700'/></div>
 
 ### Screening
-<div align=center><img src='./res/Fig.6_Screening.jpg' alt='' width='800'/></div>
+<div align=center><img src='./res/Fig.6_Screening.jpg' alt='' width='700'/></div>
 
 ## Get Started
 ### Download
@@ -52,17 +52,23 @@ Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version
 ### Usage Description
 1. On the *Entrance* page, two search modes are available: *Single-Point* and *Advanced*. Press the *START* button to start the search.
 
-<div align=center><img src='./res/demo1_entrance.png' alt='' width='800'/></div>
+<div align=center><img src='./res/demo1_entrance.png' alt='' width='700'/></div>
 
 2. On the *Single-Point* page, you can calculate the predicted properties based on the exact given concentration.
 
-<div align=center><img src='./res/single.gif' alt='' width='800'/></div>
+<div align=center><img src='./res/single.gif' alt='' width='700'/></div>
 
 3. On the *Advanced* page, you can calculate and analyze the predicted properties based on certain given conditions.
 
-<div align=center><img src='./res/advanced.gif' alt='' width='800'/></div>
+<div align=center><img src='./res/advanced.gif' alt='' width='700'/></div>
 
 ## References
 1. G. Liu, S. Yang, Y. Zhong. High-entropy materials design by integrating the first-principles calculations and machine learning: a case study in the Al-Co-Cr-Fe-Ni system. In preparation. (2022)
 2. S. Yang, Y. Zhong, Ab Initio Modeling of fcc Fe-Co-Cr-Ni High Entropy Alloys with Full Composition Range, Journal of Phase Equilibria and Diffusion 42(5) (2021) 656-672.
 3. S. Yang, G. Liu, Y. Zhong, Revisit the VEC criterion in high entropy alloys (HEAs) with high-throughput ab initio calculations: A case study with Al-Co-Cr-Fe-Ni system, Journal of Alloys and Compounds  (2022) 165477.
+
+<style>
+    table {
+        margin: 0 auto;
+    }
+</style>
