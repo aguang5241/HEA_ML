@@ -16,17 +16,17 @@ The knowledge of HEA over a full composition range can be obtained from well-tra
 * Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version of software (Windows, MacOS are supported). *Note: The demo version of software is only for demonstration purpose. It is not intended for commercial use. For full version of software, please contact us (gliu4@wpi.edu; yzhong@wpi.edu)*.
 
 ### Usage Description
-1. On the *Entrance* page, two search modes are available: *Single-Point* and *Advanced*. Press the *START* button to start the search.
+1. Two search modes are available: *Single-Point* and *Advanced*.
 
-    <div align=left><img src='./res/demo1_entrance.png' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/Fig.7_Software.png' alt='' width='700'/></div>
 
 2. On the *Single-Point* page, you can calculate the predicted properties based on the exact given concentration.
 
-    <div align=left><img src='./res/single.gif' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/single.gif' alt='' width='700'/></div>
 
 3. On the *Advanced* page, you can calculate and analyze the predicted properties based on certain given conditions.
 
-    <div align=left><img src='./res/advanced.gif' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/advanced.gif' alt='' width='700'/></div>
 
 ## Main Results
 ### Modeling
@@ -43,17 +43,17 @@ The knowledge of HEA over a full composition range can be obtained from well-tra
 
 * Results of algorithm-driven modeling: (a) optimization history; (b) importance plot for difference hyperparameters; and (c) detailed optimization results based on specific hyperparameters.
 
-    <div align=left><img src='./res/Fig.1_Modeling.jpg' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/Fig.1_Modeling.jpg' alt='' width='700'/></div>
 
 ### Training
 * The training data of properties (e.g., phase stabilities and mechanical properties) is obtained by the first-principles calculation. The rules lying behind the data can be discovered by machine learning. Analysis of R-values for $C_{11}$ of the BCC with progressive training: (a) unary training and binary testing; (b) unary + binary training and ternary testing; and (c) unary + binary + ternary training and quaternary testing; (d) finalization of the model.
 
-    <div align=left><img src='./res/Fig.2_Training.jpg' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/Fig.2_Training.jpg' alt='' width='700'/></div>
 
 ### Prediction
 * The knowledge of HEA over a full composition range can be obtained from well-trained model, and the corresponding software is developed with the knowledge embedded. The predicted phase stabilities and elastic constants of the *FCC and BCC binary systems* are shown below: (a)  $\Delta H^{f}$ of FCC; (b) $\Delta H^{f}$ of BCC; (c) $C_{ij}$ of FCC; and (d) $C_{ij}$ of BCC.
 
-    <div align=left><img src='./res/Fig.3_Binary.jpg' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/Fig.3_Binary.jpg' alt='' width='700'/></div>
 
 * The VEC is defined as follows: \
 $VEC=\sum C_ {i}(VEC)_ {i}$, \
@@ -67,16 +67,16 @@ where $C_ {i}$ and $(VEC)_ {i}$ stand for the atomic fraction and VEC value of e
     | Ni | 10 |
 * Prediction results in terms of the *VEC (see the definition above)* for FCC (a1-a8) and BCC (b1-b8): (a1/b1) $\Delta H^{f}$; (a2/b2) Bulk modulus; (a3/b3) Shear modulus; (a4/b4) Young’s modulus; (a5/b5) P-wave modulus; (a6/b6) Pugh’s ratio; (a7/b7) Poisson's ratio; and (a8/b8) Vickers hardness.
 
-    <div align=left><img src='./res/Fig.4_VEC.jpg' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/Fig.4_VEC.jpg' alt='' width='700'/></div>
 
 ### Analysis & Screening
 * Analysis with an emphasis on bulk modulus (*B*), shear modulus (*G*), and Pugh’s ratio (*k*) with an elemental concentration of each range from 5 to 35 at. %: Univariate and bivariate distribution plots for the (a) FCC and (b) BCC. Mechanical properties vs. phase stabilities plots of the (c) FCC and (d) BCC
 
-    <div align=left><img src='./res/Fig.5_Analysis.jpg' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/Fig.5_Analysis.jpg' alt='' width='700'/></div>
 
 * 100 candidates with the highest bulk modulus after screening for both (a) FCC and (b) BCC, sorted by phase stabilities. Screening criteria: (1) the concentration of each element in the range of 5 to 35 at. %; and (2) $\Delta H^{f}$ less than or equal to zero.
     
-    <div align=left><img src='./res/Fig.6_Screening.jpg' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/Fig.6_Screening.jpg' alt='' width='700'/></div>
 
 
 ## References
