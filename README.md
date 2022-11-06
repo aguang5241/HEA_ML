@@ -18,7 +18,7 @@ The knowledge of HEA over a full composition range can be obtained from well-tra
 ### Usage Description
 1. Two search modes are available: *Single-Point* and *Advanced*.
 
-    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/Fig.7_Software.png' alt='' width='700'/></div>
+    <div align=left><img src='https://raw.githubusercontent.com/aguang5241/HEA_ML/main/res/Fig.7_Software.jpg' alt='' width='700'/></div>
 
 2. On the *Single-Point* page, you can calculate the predicted properties based on the exact given concentration.
 
