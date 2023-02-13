@@ -80,6 +80,6 @@ where $C_ {i}$ and $(VEC)_ {i}$ stand for the atomic fraction and VEC value of e
 
 
 ## References
-1. G. Liu, S. Yang, Y. Zhong. High-entropy materials design by integrating the first-principles calculations and machine learning: a case study in the Al-Co-Cr-Fe-Ni system. DOI: [10.21203/rs.3.rs-2505210/v1](http://dx.doi.org/10.21203/rs.3.rs-2505210/v1). (2022, submitted, **this work**)
+1. G. Liu, S. Yang, Y. Zhong. High-entropy materials design by integrating the first-principles calculations and machine learning: a case study in the Al-Co-Cr-Fe-Ni system. DOI: [10.21203/rs.3.rs-2505210/v1](http://dx.doi.org/10.21203/rs.3.rs-2505210/v1). (2023, submitted, **this work**)
 2. S. Yang, Y. Zhong, Ab Initio Modeling of fcc Fe-Co-Cr-Ni High Entropy Alloys with Full Composition Range, Journal of Phase Equilibria and Diffusion 42(5) (2021) 656-672.
 3. S. Yang, G. Liu, Y. Zhong, Revisit the VEC criterion in high entropy alloys (HEAs) with high-throughput ab initio calculations: A case study with Al-Co-Cr-Fe-Ni system, Journal of Alloys and Compounds  (2022) 165477.
