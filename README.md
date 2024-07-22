@@ -7,7 +7,7 @@ High-entropy alloys (HEAs) have drawn significant attention within the materials
 
 ## Workflow
 
-<div align=left><img src='./res/demo0_graphical_abstract.png' alt='' width='700'/></div>
+<div align=left><img src='./res/demo0_graphical_abstract.png' alt='' width=''/></div>
 
 ## Get Started
 ### Download
