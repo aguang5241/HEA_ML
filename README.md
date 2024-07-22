@@ -58,7 +58,7 @@ High-entropy alloys (HEAs) have drawn significant attention within the materials
 
 
 ## Cite Us
-1. Liu, Guangchen, Songge Yang, and Yu Zhong. "High-Entropy Materials Design by Integrating the First-Principles Calculations and Machine Learning: A Case Study in the Al-Co-Cr-Fe-Ni System." High Entropy Alloys & Materials (2024): 1-14. (**this work**)
-2. Our HEA-ML database for high entropy alloys elastic property predictions was reported in [JOM](https://static.asminternational.org/amp/202303/21/).
+1. Liu, Guangchen, Songge Yang, and Yu Zhong. "High-Entropy Materials Design by Integrating the First-Principles Calculations and Machine Learning: A Case Study in the Al-Co-Cr-Fe-Ni System." High Entropy Alloys & Materials (2024): 1-14. ([**This Work**](https://doi.org/10.1007/s44210-024-00041-3))
+2. Our HEA-ML database for high entropy alloys elastic property predictions was reported in [**JOM**](https://static.asminternational.org/amp/202303/21/).
 3. S. Yang, G. Liu, Y. Zhong, Revisit the VEC criterion in high entropy alloys (HEAs) with high-throughput ab initio calculations: A case study with Al-Co-Cr-Fe-Ni system, Journal of Alloys and Compounds  (2022) 165477.
 4. S. Yang, Y. Zhong, Ab Initio Modeling of fcc Fe-Co-Cr-Ni High Entropy Alloys with Full Composition Range, Journal of Phase Equilibria and Diffusion 42(5) (2021) 656-672.
