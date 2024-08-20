@@ -11,7 +11,9 @@ High-entropy alloys (HEAs) have drawn significant attention within the materials
 
 ## Get Started
 ### Download
-* Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version of software (Windows, MacOS are supported). *For full version of software, please contact us (gliu4@wpi.edu; yzhong@wpi.edu)*. ⭐️ Star this repository if you find it helpful.
+* Visit https://github.com/aguang5241/HEA_ML/releases to download the demo version of software (Windows, MacOS are supported). *For full version of software, please contact us (gliu4@wpi.edu; yzhong@wpi.edu)*. 
+
+  ⭐️ Star this repository if you find it helpful.
 
 ### Usage Description
 1. Two search modes are available: *Single-Point* and *Advanced*.
