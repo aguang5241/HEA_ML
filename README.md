@@ -1,6 +1,7 @@
 # High-Entropy Materials Design by Integrating the First-Principles Calculations and Machine Learning: a Case Study in the Al-Co-Cr-Fe-Ni System
 
-[![DOI](https://zenodo.org/badge/DOI/10.1007/s44210-024-00041-3.svg)](https://doi.org/10.1007/s44210-024-00041-3)
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.1007/s44210-024-00041-3.svg)](https://doi.org/10.1007/s44210-024-00041-3) -->
+[![DOI](https://img.shields.io/badge/DOI-10.1007/s44210--024--00041--3-blue)](https://doi.org/10.1007/s44210-024-00041-3)
 
 ## Overview
 High-entropy alloys (HEAs) have drawn significant attention within the materials science community due to their exceptional properties. However, optimizing compositions in these alloys is challenging due to their vast compositional space. Conventional computational methods are constrained by high computational costs, limiting rapid database expansion. In this study, we propose a novel approach that integrates first-principles calculations with machine learning to efficiently explore the Al-Co-Cr-Fe-Ni system, encompassing both face-centered cubic (FCC) and body-centered cubic (BCC) phases. Our approach establishes comprehensive relationships among compositions, phase stability, and elastic properties at 0 K. A comprehensive database and software for this system are developed. Analysis of this database reveals the presence of FCC and BCC phases under specific valence electron concentration (VEC) criteria. Through screening and statistical analysis using a performance index, we quantitatively investigate the brittleness and ductility, facilitating the identification of optimal HEAs candidates. This work enhances our understanding of the HEA properties, offering a promising pathway for materials design and optimization.
